@@ -2,8 +2,8 @@
 
 A working Doom-inspired 3D raycasting game running on an Arduino Nano, wired up on a breadboard with a tiny OLED display and four buttons. Yes, it runs.
 
-![Showcase](showcase-img1 - Copy.jpeg)
-![Showcase](showcase-img2 - Copy.jpeg)
+![Showcase](showcase-img1.jpeg)
+![Showcase](showcase-img2.jpeg)
 
 ## Demo
 
